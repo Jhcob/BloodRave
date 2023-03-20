@@ -184,4 +184,10 @@ MonoBehaviour:
     customWindowSize: {x: 400, y: 300}
     alignWindowToBar: 1
     windowMode: 0
-  _sceneHistory: []
+  _sceneHistory:
+  - name: LevelLayout
+    path: Assets/Scenes/LevelLayout.unity
+  - name: Playground
+    path: Assets/StarterAssets/FirstPersonController/Scenes/Playground.unity
+  - name: Blockout
+    path: Assets/Scenes/Blockout.unity
