@@ -185,8 +185,6 @@ MonoBehaviour:
     alignWindowToBar: 1
     windowMode: 0
   _sceneHistory:
-  - name: LevelLayout
-    path: Assets/Scenes/LevelLayout.unity
   - name: Playground
     path: Assets/StarterAssets/FirstPersonController/Scenes/Playground.unity
   - name: Blockout
