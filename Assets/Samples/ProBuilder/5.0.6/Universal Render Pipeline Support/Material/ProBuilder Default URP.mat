@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ProBuilder Default URP
-  m_Shader: {fileID: -6465566751694194690, guid: 0f643c7a43f987e499b768759dc61828,
+  m_Shader: {fileID: -6465566751694194690, guid: ab14b974792b43e4fa0b26be7b04dfdd,
     type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
